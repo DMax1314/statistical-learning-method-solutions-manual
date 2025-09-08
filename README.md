@@ -1,5 +1,9 @@
-<div align=center>
+<div align="center" xmlns="http://www.w3.org/1999/html">
 <h1>机器学习方法习题解答</h1>
+
+[![stars](https://img.shields.io/github/stars/datawhalechina/statistical-learning-method-solutions-manual.svg)](https://github.com/datawhalechina/statistical-learning-method-solutions-manual)
+[![forks](https://img.shields.io/github/forks/datawhalechina/statistical-learning-method-solutions-manual.svg)](https://github.com/datawhalechina/statistical-learning-method-solutions-manual)
+
 </div>
 
 &emsp;&emsp;李航老师的《统计学习方法》和《机器学习方法》是机器学习领域的经典入门教材之一。本书分为监督学习、无监督学习和深度学习，全面系统地介绍了机器学习的主要方法。
